@@ -7,3 +7,9 @@
 [submodule "krakend"]
 	path = krakend
 	url = git@github.com:devopsfaith/krakend.git
+[submodule "thingsboard-gateway"]
+	path = thingsboard-gateway
+	url = git@github.com:thingsboard/thingsboard-gateway.git
+[submodule "xorp.ct"]
+	path = xorp.ct
+	url = git@github.com:greearb/xorp.ct.git
