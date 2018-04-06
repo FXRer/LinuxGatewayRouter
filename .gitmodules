@@ -1,0 +1,9 @@
+[submodule "kube-router"]
+	path = kube-router
+	url = git@github.com:cloudnativelabs/kube-router.git
+[submodule "borderrouter"]
+	path = borderrouter
+	url = git@github.com:openthread/borderrouter.git
+[submodule "krakend"]
+	path = krakend
+	url = git@github.com:devopsfaith/krakend.git
