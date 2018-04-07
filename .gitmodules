@@ -13,3 +13,15 @@
 [submodule "xorp.ct"]
 	path = xorp.ct
 	url = git@github.com:greearb/xorp.ct.git
+[submodule "CAN-Ethernet-gateway/cegwctl"]
+	path = CAN-Ethernet-gateway/cegwctl
+	url = git@github.com:can-eth-gw/cegwctl.git
+[submodule "CAN-Ethernet-gateway/cegwsend"]
+	path = CAN-Ethernet-gateway/cegwsend
+	url = git@github.com:can-eth-gw/cegwsend.git
+[submodule "CAN-Ethernet-gateway/can_eth_gw"]
+	path = CAN-Ethernet-gateway/can_eth_gw
+	url = git@github.com:can-eth-gw/can_eth_gw.git
+[submodule "CAN-Ethernet-gateway/can-eth-gw-stuff"]
+	path = CAN-Ethernet-gateway/can-eth-gw-stuff
+	url = git@github.com:can-eth-gw/can-eth-gw-stuff.git
