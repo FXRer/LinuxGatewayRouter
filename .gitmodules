@@ -25,3 +25,6 @@
 [submodule "CAN-Ethernet-gateway/can-eth-gw-stuff"]
 	path = CAN-Ethernet-gateway/can-eth-gw-stuff
 	url = git@github.com:can-eth-gw/can-eth-gw-stuff.git
+[submodule "baresip"]
+	path = baresip
+	url = https://github.com/alfredh/baresip.git
