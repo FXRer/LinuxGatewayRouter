@@ -28,3 +28,9 @@
 [submodule "baresip"]
 	path = baresip
 	url = https://github.com/alfredh/baresip.git
+[submodule "OpenWrt/openwrt"]
+	path = OpenWrt/openwrt
+	url = https://github.com/openwrt/openwrt.git
+[submodule "OpenWrt/chaos_calmer"]
+	path = OpenWrt/chaos_calmer
+	url = https://github.com/openwrt/chaos_calmer.git
