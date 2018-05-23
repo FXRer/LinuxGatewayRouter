@@ -34,3 +34,6 @@
 [submodule "OpenWrt/chaos_calmer"]
 	path = OpenWrt/chaos_calmer
 	url = https://github.com/openwrt/chaos_calmer.git
+[submodule "OpenNetworkLinux"]
+	path = OpenNetworkLinux
+	url = https://github.com/opencomputeproject/OpenNetworkLinux.git
